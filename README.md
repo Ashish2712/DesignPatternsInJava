@@ -1,8 +1,8 @@
 This repo contains various design patterns in java. We will be covering following design patterns in this repo
 
-Factory Design pattern
-Builder Design pattern
-Adaptor Design pattern
-Composite Design pattern
-Prototype Design pattern
-Observer Design pattern
+1. Factory Design pattern
+2. Builder Design pattern
+3. Adaptor Design pattern
+4. Composite Design pattern
+5. Prototype Design pattern
+6. Observer Design pattern
