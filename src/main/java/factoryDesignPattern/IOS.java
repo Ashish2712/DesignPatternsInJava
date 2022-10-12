@@ -1,4 +1,4 @@
-package phone;
+package factoryDesignPattern;
 
 public class IOS implements  OS{
     @Override

@@ -1,4 +1,4 @@
-package com.phone;
+package builderDesignPattern;
 
 public class Shop {
 
